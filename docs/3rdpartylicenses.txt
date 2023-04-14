@@ -1,13 +1,31 @@
+@angular/animations
+MIT
+
 @angular/common
 MIT
 
 @angular/core
 MIT
 
+@angular/forms
+MIT
+
 @angular/platform-browser
 MIT
 
 @angular/router
+MIT
+
+jw-bootstrap-switch-ng2
+MIT
+
+ngx-bootstrap/carousel
+MIT
+
+ngx-bootstrap/datepicker
+MIT
+
+ngx-bootstrap/utils
 MIT
 
 rxjs
